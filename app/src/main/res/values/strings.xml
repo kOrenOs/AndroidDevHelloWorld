@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="init_name_normal">Hello World Normal!!</string>
+    <string name="init_name_landscape">Hello World Landscape!!</string>
+    <string name="another_text">Another unimportant, boring texts.</string>
+</resources>
